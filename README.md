@@ -1,6 +1,12 @@
-### Hi, I'm Khanh Toan 👋
+### Hi, I'm Khanh Toan - aka Kowalski31 👋
 
+## ⚡ GitHub's Stats
 
+<div a>
+    
+| <a href="https://github.com/Kowalski31"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kowalski31&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" alt="Kowalski31's github stats" /></a> | <a href="https://github.com/Kowalski31"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kowalski31&layout=compact&hide_border=true&hide=html&langs_count=10&theme=react" /></a> |
+| ------------- | ------------- |
+</div>
 <!--
 **Kowalski31/Kowalski31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
