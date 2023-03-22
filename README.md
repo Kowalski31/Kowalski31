@@ -1,8 +1,10 @@
 ### Hi, I'm Khanh Toan - aka Kowalski31 👋
 
+<div>
+
 ## ⚡ GitHub's Stats
 
-<div a>
+<div align="center">
     
 | <a href="https://github.com/Kowalski31"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kowalski31&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react" alt="Kowalski31's github stats" /></a> | <a href="https://github.com/Kowalski31"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kowalski31&layout=compact&hide_border=true&hide=html&langs_count=10&theme=react" /></a> |
 | ------------- | ------------- |
