@@ -27,7 +27,6 @@
 <div align="center">
     
 | <a href="https://github.com/Kowalski31"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kowalski31&layout=compact&hide_border=true&hide=html&langs_count=10&theme=radical" /></a> |
-| ------------- | ------------- |
 
 </div>
 <!--
